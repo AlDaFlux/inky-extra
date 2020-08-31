@@ -1,5 +1,5 @@
 {
-    "name": "twig/inky-extra",
+    "name": "aldaflux/inky-extra",
     "type": "library",
     "description": "A Twig extension for the inky email templating engine",
     "keywords": ["twig", "inky", "email", "emails"],
